@@ -9,3 +9,6 @@ Deep-CUSeq is written in python3 with some code fragments copied from DCGAN impl
   - For reasons of my convenience, `data_dir` is required to be `data_dir = ../../data` -- errors might pop-up when other directories are used.
   - To train the model please execute main_DeepCUSeq.py
   
+ 
+ # Dataset
+ Please download the dataset from CMU-MultimodalSDK https://github.com/A2Zadeh/CMU-MultimodalSDK
