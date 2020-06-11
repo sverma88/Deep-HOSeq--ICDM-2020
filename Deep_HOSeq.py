@@ -8,7 +8,7 @@ from ops import *
 from utils import *
 
 
-class Deep_CUSeq():
+class Deep_HOSeq():
 
     def __init__(self, sess, data_dir, batch_size, hidden_v, hidden_a, hidden_t, LSTM_hid_t, text_out,
                  LSTM_hid_v, LSTM_hid_a, Seq_count, Conv_filt):
