@@ -1,5 +1,5 @@
 # Deep_CUSeq
-Codes forICDM 2020 Submission
+Codes for ICDM 2020 Submission
 
 
 
@@ -7,7 +7,7 @@ Codes forICDM 2020 Submission
 Deep-HOSeq is written in python3 with some code fragments copied from DCGAN implementation from Carpedm20.
   - The code is developed with Python 3.6 and TensorFlow 1.12.0 (with GPU support) on Linux
   - For reasons of my convenience, `data_dir` is required to be `data_dir = ../../data` -- errors might pop-up when other directories are used.
-  - To train the model please execute main_DeepCUSeq.py
+  - To train the model please execute main_DeepHOSeq.py
   
  
  # Dataset
