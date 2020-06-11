@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 
-from Deep_CUSeq import Deep_CUSeq
+from Deep_HOSeq import Deep_HOSeq
 from utils import pp, show_all_variables
 
 
@@ -37,7 +37,7 @@ def main(_):
 
     with tf.Session(config=run_config) as sess:
 
-        deep_cuseq = Deep_CUSeq(
+        deep_hoseq = Deep_HOSeq(
             sess,
             data_dir    = FLAGS.data_dir,
             batch_size  = FLAGS.batch_size,
@@ -56,7 +56,7 @@ def main(_):
 
         show_all_variables()
 
-        deep_cuseq.train(FLAGS)
+        deep_hoseq.train(FLAGS)
 
 
 
