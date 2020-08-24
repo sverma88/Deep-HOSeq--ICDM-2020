@@ -1,5 +1,5 @@
 # Deep_CUSeq
-Codes for ICDM 2020 Submission
+Codes for Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis --- ICDM 2020 
 
 
 
@@ -12,3 +12,6 @@ Deep-HOSeq is written in python3 with some code fragments copied from DCGAN impl
  
  # Dataset
  Please download the dataset from CMU-MultimodalSDK https://github.com/A2Zadeh/CMU-MultimodalSDK
+ 
+
+     
