@@ -1,5 +1,5 @@
 # Deep-HOSeq -- ICDM 2020
-Codes for Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis --- ICDM 2020 
+Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis --- ICDM 2020 
 
 
 
