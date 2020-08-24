@@ -1,4 +1,4 @@
-# Deep_CUSeq
+# Deep-HOSeq
 Codes for Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis --- ICDM 2020 
 
 
