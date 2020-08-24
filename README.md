@@ -1,7 +1,7 @@
 # Deep-HOSeq -- ICDM 2020
 Deep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis --- ICDM 2020 
 
-
+![alt text](https://github.com/sverma88/Deep-HOSeq--ICDM-2020/blob/master/Deep-CUSeq.pdf)
 
 ### Dependencies / Notes
 Deep-HOSeq is written in python3 with some code fragments copied from DCGAN implementation from Carpedm20.
@@ -13,5 +13,11 @@ Deep-HOSeq is written in python3 with some code fragments copied from DCGAN impl
  # Dataset
  Please download the dataset from CMU-MultimodalSDK https://github.com/A2Zadeh/CMU-MultimodalSDK
  
+# Future research (ideas)
+- Better Fusion scheme for utilizing both common and unique latent information
+- Utilize Sequence information for sentiment prediction
+- Cross Data Generelaization Performance
 
+
+Please contact either Sunny Verma or Wei Liu at firstname.lastname@uts.edu.au if you're interested to collaborate on this!
      
